@@ -4,3 +4,4 @@
 2013-06-22 sparrow 5
 2013-06-23 crow 7
 2013-06-26 mallard 8
+the readiness is on
