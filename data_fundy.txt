@@ -1,0 +1,5 @@
+2013-06-23 american robin 15
+2013-06-23 american crow 12
+2013-06-24 herring gull 3
+2013-06-25 black-capped chickadee 2
+
