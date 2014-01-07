@@ -5,3 +5,4 @@
 2013-06-23 crow 7
 2013-06-26 mallard 8
 the readiness is on
+the readiness is off
