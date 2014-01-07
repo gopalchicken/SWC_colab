@@ -1,4 +1,4 @@
-#OTher comment
+#Other comment
 """Count the number of individuals of each species in a text data file
 Input file format:
 2013-03-22 bluejay 5
