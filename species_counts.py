@@ -1,4 +1,4 @@
-"""Count the number of individuals of each species in a text data file
+"""Count the number of individuals of each species in a txt data file
 Input file format:
 2013-03-22 bluejay 5
 2013-03-22 mallard 9
